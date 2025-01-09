@@ -6,4 +6,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Authentication.Core\Authentication.Core.csproj" />
+      <ProjectReference Include="..\Authentication.Repositories\Authentication.Repositories.csproj" />
+    </ItemGroup>
+
 </Project>
