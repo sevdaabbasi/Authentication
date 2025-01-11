@@ -1,0 +1,12 @@
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/bin/Debug/net8.0/Authentication.Core.deps.json
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/bin/Debug/net8.0/Authentication.Core.dll
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/bin/Debug/net8.0/Authentication.Core.pdb
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/obj/Debug/net8.0/Authentication.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/obj/Debug/net8.0/Authentication.Core.AssemblyInfoInputs.cache
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/obj/Debug/net8.0/Authentication.Core.AssemblyInfo.cs
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/obj/Debug/net8.0/Authentication.Core.csproj.CoreCompileInputs.cache
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/obj/Debug/net8.0/Authentication.Core.sourcelink.json
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/obj/Debug/net8.0/Authentication.Core.dll
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/obj/Debug/net8.0/refint/Authentication.Core.dll
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/obj/Debug/net8.0/Authentication.Core.pdb
+/Users/sevdaabbasi/RiderProjects/Authentication/Authentication.Core/obj/Debug/net8.0/ref/Authentication.Core.dll
